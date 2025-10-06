@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Ebook com IA",
+  "description": "Uma aplicação com IA que gera mini-ebooks completos a partir de um único tópico, usando a API Gemini para criar conteúdo estruturado com títulos, capítulos e conclusões.",
+  "requestFramePermissions": []
+}
